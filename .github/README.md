@@ -1,7 +1,5 @@
 # EXCEL_Account-Backup-Professional
 
-<img alt="image" src="1.png" />
-</p>
-<img alt="image" src="2.png" />
-</p>
-<img alt="image" src="3.png" />
+![image](1.png)
+![image](2.png)
+![image](3.png)
